@@ -1,0 +1,38 @@
+_repo: A-Source-Book-for-Mediaeval-HistorySelected-Documents-illustrating-the-History-of-Europe-in-t__42707
+_version: 0.1.0
+alternative_title: "A Source Book for Mediaeval History\r\nSelected Documents illustrating\
+  \ the History of Europe in the Middle Age"
+covers:
+- cover_type: archival
+  image_path: 42707-h/images/cover.jpg
+creator:
+  authors:
+  - agent_name: McNeal, Edgar Holmes
+    alias: McNeal, E. H. (Edgar Holmes)
+    birthdate: 1874
+    deathdate: 1955
+    gutenberg_agent_id: '41835'
+    url: http://www.gutenberg.org/2009/agents/41835
+  - agent_name: Thatcher, Oliver J. (Oliver Joseph)
+    alias: Thatcher, Oliver Joseph
+    birthdate: 1857
+    deathdate: 1937
+    gutenberg_agent_id: '41834'
+    url: http://www.gutenberg.org/2009/agents/41834
+description: ''
+gutenberg_issued: '2013-05-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42707'
+  lccn: '05011344'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Middle Ages -- Sources'
+- !lcc 'D'
+- !lcsh 'Europe -- History -- 476-1492 -- Sources'
+title: "A Source Book for Mediæval History\r\nSelected Documents illustrating the\
+  \ History of Europe in the Middle Age"
+url: http://www.gutenberg.org/ebooks/42707
